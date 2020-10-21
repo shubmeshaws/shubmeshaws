@@ -3,7 +3,7 @@
 ## Hi There :wave: It's Shubham Meshram 
 <hr>
 <b>
-<li> :crystal_ball:I am Having around 2.9 year of Expertise exprience in AWS Cloud and DevOps Tools.<br>
+<li> :crystal_ball: I am Having around 2.9 year of Expertise exprience in AWS Cloud and DevOps Tools.<br>
 <li> :computer: Expertise in AWS Cloud Automation using Python . <br>
 <li> :octocat: Having good Knowledge of Containerization tool like Docker and Orchestration tool like Kubernetes.
 
@@ -11,6 +11,6 @@
 <li> :earth_asia: Checkout My Portfolio Website: https://shubhammeshram.xyz
 
 ## Working Company : 
-website link : https://closecheckout.com
+<li> :earth_asia: Website link : https://closecheckout.com
 <b>
 <hr>
