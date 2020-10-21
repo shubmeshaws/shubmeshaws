@@ -1,16 +1,14 @@
-### Hi there 👋
+<!-- @format -->
 
-<!--
-**shubmeshaws/shubmeshaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi There :wave: It's Shubham Meshram 
+<hr>
+<b>
+<li> :crystal_ball:I am Having around 2.9 year of Expertise exprience in AWS Cloud and DevOps Tools.<br>
+<li> :computer: Expertise in AWS Cloud Automation using Python . <br>
+<li> :octocat: Having good Knowledge of Containerization tool like Docker and Orchestration tool like Kubernetes.
 
-Here are some ideas to get you started:
+## Checkout my Portfolio :
+<li> :earth_asia: Checkout My Portfolio Website: https://shubhammeshram.xyz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>
+<hr>
