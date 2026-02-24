@@ -64,24 +64,33 @@
 
 ### 🚀 engineX
 > engineX is an open-source application that parses NGINX configuration files and generates intuitive flow diagrams, enabling developers to quickly understand configuration structure and request routing.
-
 🔗 [Repository](https://github.com/shubmeshaws/engineX)  
-🌐 [Live Demo](https://enginxai.in)
+🌐 [Live Demo](https://enginexai.in)
 
-### 🚀 KareerAI
-> Short description of your project  
-🔗 [Repository](https://github.com/shubmeshaws/KareerAI)  
-🌐 [Live Demo](https://kareerai.in)
+
 
 ### 🤖 Vaultis
 > A futuristic opensource SaaS web application for database query execution & monitoring with User and Admin panels.  
 🔗 [Repository](https://github.com/shubmeshaws/vaultis)
-🌐 [Live Demo](https://vaultis.in)
+🌐 [Live Demo](https://vaultis.prismforce.in)
+
+
 
 ### 🤖 meshAI
 > meshAI is an AI-powered dashboard that analyzes EKS clusters and cloud platforms like AWS, Azure, and GCP, providing intelligent monitoring, cost optimization, infrastructure insights, and automation from a single interface.  
 🔗 [Repository](https://github.com/shubmeshaws/meshAI)
 🌐 [Live Demo](https://meshai.in)
+
+
+### 🚀 KareerAI
+> An AI SaSS Application which will help to find a job and automaticaly apply on your behalf
+🔗 [Repository](https://github.com/shubmeshaws/KareerAI)  
+🌐 [Live Demo](https://kareerai.in)
+
+### 🚀 AccessPrism
+> An single AI platform where you can integrate multiple application and can access with single click
+🔗 [Repository](https://github.com/shubmeshaws/accessprism)  
+🌐 [Live Demo](https://accessprism.prismforce.in)
 
 ---
 
