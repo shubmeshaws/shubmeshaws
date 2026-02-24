@@ -14,15 +14,20 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **Advanced Backend Architecture**
+- 🔭 I’m currently working on **AI DvOps Projects**
+- 🌱 I’m currently learning **MLOPS**
 - 💬 Ask me about **JavaScript, Python, Cloud & DevOps**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **shubmeshaws@gmail.com**
 - ⚡ Fun fact: I turn coffee into scalable systems ☕
 
 ---
 
 ## 🛠️ Tech Stack
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,nginx,linux" />
+</p>
 
 ### 🚀 Languages
 <p>
@@ -44,20 +49,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 </p>
 
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,nginx,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubmeshaws&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubmeshaws&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -68,24 +59,27 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubmeshaws&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
-### 🚀 Project Name 1
+### 🚀 engineX
+> engineX is an open-source application that parses NGINX configuration files and generates intuitive flow diagrams, enabling developers to quickly understand configuration structure and request routing.
+🔗 [Repository](https://github.com/shubmeshaws/engineX)  
+🌐 [Live Demo](https://enginxai.in)
+
+### 🚀 KareerAI
 > Short description of your project  
 🔗 [Repository](https://github.com/shubmeshaws/KareerAI)  
-🌐 [Live Demo](https://yourproject.com)
+🌐 [Live Demo](https://kareerai.in)
 
-### 🤖 Project Name 2
-> Short description of your project  
+### 🤖 Vaultis
+> A futuristic opensource SaaS web application for database query execution & monitoring with User and Admin panels.  
+🔗 [Repository](https://github.com/shubmeshaws/vaultis)
+🌐 [Live Demo](https://vaultis.in)
+
+### 🤖 meshAI
+> meshAI is an AI-powered dashboard that analyzes EKS clusters and cloud platforms like AWS, Azure, and GCP, providing intelligent monitoring, cost optimization, infrastructure insights, and automation from a single interface.  
 🔗 [Repository](https://github.com/shubmeshaws/meshAI)
+🌐 [Live Demo](https://meshai.in)
 
 ---
 
