@@ -18,6 +18,7 @@
 - 🌱 I’m currently learning **MLOPS**
 - 💬 Ask me about **JavaScript, Python, Cloud & DevOps**
 - 📫 How to reach me: **shubmeshaws@gmail.com**
+- 📫 How to view my portfolio: **https://shubhammeshram.com**
 - ⚡ Fun fact: I turn coffee into scalable systems ☕
 
 ---
